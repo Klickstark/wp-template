@@ -3,4 +3,3 @@ exclude=.env
 prodSiteUrl=
 prodSiteSsh=
 prodSiteSshDir=
-devSiteUrl=
