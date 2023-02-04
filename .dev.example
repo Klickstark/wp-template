@@ -1,0 +1,6 @@
+targetDirs=
+prodSiteUrl=shap3s.com
+prodSiteSsh=hosting167001@202.61.232.61
+prodSiteSshDir=/webseiten/shap3s.com
+prodSiteWebRoot=/webseiten/shap3s.com
+devSiteUrl=shap3sdevel0.klickstark.net

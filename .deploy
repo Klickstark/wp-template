@@ -1,5 +1,0 @@
-targetDirs=web/wp-content/plugins/XXX web/wp-content/themes/XXX web/wp-uploads/XXX
-exclude=.env
-prodSiteUrl=
-prodSiteSsh=
-prodSiteSshDir=

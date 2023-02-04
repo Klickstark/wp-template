@@ -2,5 +2,6 @@ web/wp-database-config.php
 web/wp-content/cache/
 db-snapshots/*
 .env
-
+.browser-sync-port
 node_modules
+web/wp-admin

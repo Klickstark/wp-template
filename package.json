@@ -10,15 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Klickstark/wp-template.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Klickstark/wp-template/issues"
-  },
-  "homepage": "https://github.com/Klickstark/wp-template#readme",
   "devDependencies": {
     "browser-sync": "^2.27.11",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "get-port": "^6.1.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
